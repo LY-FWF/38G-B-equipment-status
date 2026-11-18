@@ -208,7 +208,7 @@ export default {
 <template>
   <svg class="block" height="100%" preserveAspectRatio="none" viewBox="0 0 1920 1080" width="100%" version="1.1"
     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- <title>38G地面B环设备状态监测</title> -->
+    <!-- <title>38G地面B环设备状态监测备份 2</title> -->
     <defs>
       <linearGradient x1="28.1148014%" y1="99.9994492%" x2="28.1148624%" y2="-15.9417764%" id="linearGradient-1">
         <stop stop-color="#0D98FF" offset="0%"></stop>
@@ -235,455 +235,237 @@ export default {
         <stop stop-color="#016CAB" offset="100%"></stop>
       </linearGradient>
     </defs>
-    <g id="38G地面B环设备状态监测" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="38G地面B环设备状态监测备份-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
       <rect fill="#000000" x="0" y="0" width="1920" height="1080"></rect>
       <g id="编组-6备份-3" transform="translate(355.000000, 102.000000)" fill="#00A1FF" fill-opacity="0.07" stroke="#015A90"
         stroke-width="2">
         <rect id="矩形" x="1" y="1" width="1538" height="547"></rect>
       </g>
       <g id="编组-7备份-2" transform="translate(370.000000, 198.000000)">
-        <rect id="矩形" fill="#00A1FF" opacity="0.0993289039" x="0" y="0" width="277" height="434"></rect>
-        <g id="编组-13" transform="translate(0.000000, 79.000000)" fill="#FFFFFF"
-          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
-          <text id="0.81A,1.53V">
-            <tspan x="156.904019" y="26.5131579">0.81A,1.53V</tspan>
+        <rect id="矩形" fill="#00A1FF" opacity="0.0993289039" x="0" y="0" width="560" height="434"></rect>
+        <g id="编组-13" transform="translate(0.000000, 38.000000)">
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="560" height="39"></rect>
+          <text id="0.81A,1.53V" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#FFFFFF">
+            <tspan x="366.412472" y="27">0.81A,1.53V</tspan>
           </text>
-          <text id="主控板">
-            <tspan x="17.3818425" y="26.5131579">主控板</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份" transform="translate(17.000000, 165.500000)" fill="#FFFFFF"
-          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
-          <text id="0.58A,2.6V">
-            <tspan x="140.696492" y="19">0.58A</tspan>
-            <tspan x="189.674492" y="19" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">,2.6V</tspan>
-          </text>
-          <text id="变频模块">
-            <tspan x="0" y="19">变频模块</tspan>
+          <text id="主控板" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#FFFFFF">
+            <tspan x="35.2359551" y="27">主控板</tspan>
           </text>
         </g>
-        <g id="编组-13备份-5" transform="translate(0.000000, 316.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
+        <g id="编组-13备份" transform="translate(0.000000, 118.000000)">
+          <text id="0.58A,2.6V" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#FFFFFF">
+            <tspan x="365.964831" y="26">0.58A</tspan>
+            <tspan x="414.942831" y="26" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">,2.6V</tspan>
+          </text>
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="560" height="39"></rect>
+          <text id="变频模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#FFFFFF">
+            <tspan x="33.9775281" y="26">变频模块</tspan>
+          </text>
+        </g>
+        <g id="编组-13备份-5" transform="translate(0.000000, 275.000000)">
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="560" height="39"></rect>
           <text id="42度" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="183.889021" y="26.5131579">42度</tspan>
+            <tspan x="392.334831" y="27">42度</tspan>
           </text>
           <text id="接受电平A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">接受电平A</tspan>
+            <tspan x="33.8314607" y="27">接受电平A</tspan>
           </text>
         </g>
-        <g id="编组-13备份-8" transform="translate(0.000000, 355.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="42%" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="184.159021" y="26.5131579">42%</tspan>
+        <g id="编组-13备份-8" transform="translate(0.000000, 314.000000)" fill="#FFFFFF"
+          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+          <text id="42%">
+            <tspan x="392.604831" y="27">42%</tspan>
           </text>
-          <text id="接收电平B" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">接收电平B</tspan>
+          <text id="接收电平B">
+            <tspan x="33.9606742" y="27">接收电平B</tspan>
           </text>
         </g>
-        <g id="编组-13备份-3" transform="translate(0.000000, 237.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
+        <g id="编组-13备份-9" transform="translate(0.000000, 393.000000)" fill="#FFFFFF"
+          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+          <text id="36度，60%">
+            <tspan x="363.175618" y="27">36度，60%</tspan>
+          </text>
+          <text id="温湿度">
+            <tspan x="35.2359551" y="27">温湿度</tspan>
+          </text>
+        </g>
+        <g id="编组-13备份-3" transform="translate(0.000000, 196.000000)">
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="560" height="39"></rect>
           <text id="0.20A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="179.377822" y="26.5131579">0.20A</tspan>
+            <tspan x="388.275045" y="27">0.20A</tspan>
           </text>
           <text id="调制电平" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">调制电平</tspan>
+            <tspan x="35.2359551" y="27">调制电平</tspan>
           </text>
         </g>
-        <g id="编组-13备份-6" transform="translate(0.000000, 395.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
+        <g id="编组-13备份-6" transform="translate(0.000000, 354.000000)">
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="560" height="39"></rect>
           <text id="0.44A,E1" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="168.065209" y="26.5131579">0.44A,E1</tspan>
+            <tspan x="376.557045" y="27">0.44A,E1</tspan>
           </text>
           <text id="波道" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">波道</tspan>
+            <tspan x="35.2359551" y="27">波道</tspan>
           </text>
         </g>
-        <g id="编组-13备份-4" transform="translate(0.000000, 276.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="5.6V" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="183.64543" y="26.5131579">5.6V</tspan>
+        <g id="编组-13备份-4" transform="translate(0.000000, 235.000000)" fill="#FFFFFF"
+          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+          <text id="5.6V">
+            <tspan x="390.690978" y="27">5.6V</tspan>
           </text>
-          <text id="发射电平" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">发射电平</tspan>
+          <text id="发射电平">
+            <tspan x="33.9775281" y="27">发射电平</tspan>
           </text>
         </g>
-        <g id="编组-13备份-2" transform="translate(0.000000, 198.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="0.20A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="179.377822" y="26.5131579">0.20A</tspan>
+        <g id="编组-13备份-2" transform="translate(0.000000, 157.000000)" fill="#FFFFFF"
+          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+          <text id="0.20A">
+            <tspan x="388.275045" y="27">0.20A</tspan>
           </text>
-          <text id="解调模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">解调模块</tspan>
+          <text id="解调模块">
+            <tspan x="33.9775281" y="27">解调模块</tspan>
           </text>
         </g>
-        <text id="通道一" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
-          <tspan x="115" y="26">通道一</tspan>
-        </text>
-        <g id="编组-2" transform="translate(0.000000, 119.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="功放模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">功放模块</tspan>
+        <g id="编组-2" transform="translate(0.000000, 78.000000)" fill="#FFFFFF"
+          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+          <text id="功放模块">
+            <tspan x="33.9775281" y="27">功放模块</tspan>
           </text>
-          <text id="1.21A,锁定" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="162.583822" y="26.5131579">1.21A,锁定</tspan>
+          <text id="1.21A,锁定">
+            <tspan x="370.851831" y="27">1.21A,锁定</tspan>
           </text>
         </g>
-        <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="40" width="277" height="39"></rect>
-        <text id="基站信息" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="20" y="66">基站信息</tspan>
-        </text>
-        <text id="0.07A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="179.488" y="66">0.07A</tspan>
-        </text>
+        <g id="编组-8" transform="translate(40.000000, 6.000000)" fill="#FFFFFF"
+          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+          <text id="基站信息">
+            <tspan x="0" y="19">基站信息</tspan>
+          </text>
+          <text id="0.07A">
+            <tspan x="346.460464" y="19">0.07A</tspan>
+          </text>
+        </g>
       </g>
-      <g id="编组-7备份-3" transform="translate(949.000000, 198.000000)">
-        <rect id="矩形" fill="#00A1FF" opacity="0.0993289039" x="0" y="0" width="277" height="434"></rect>
-        <g id="编组-13" transform="translate(0.000000, 79.000000)" fill="#FFFFFF"
-          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
-          <text id="0.81A,1.53V">
-            <tspan x="156.904019" y="26.5131579">0.81A,1.53V</tspan>
+      <g id="编组-7备份-3" transform="translate(950.000000, 198.000000)">
+        <rect id="矩形" fill="#00A1FF" opacity="0.0993289039" x="0" y="0" width="560" height="434"></rect>
+        <g id="编组-13" transform="translate(0.000000, 38.000000)">
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="560" height="39"></rect>
+          <text id="0.81A,1.53V" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#FFFFFF">
+            <tspan x="366.412472" y="27">0.81A,1.53V</tspan>
           </text>
-          <text id="主控板">
-            <tspan x="17.3818425" y="26.5131579">主控板</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份" transform="translate(17.000000, 165.500000)" fill="#FFFFFF"
-          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
-          <text id="0.58A,2.6V">
-            <tspan x="140.696492" y="19">0.58A</tspan>
-            <tspan x="189.674492" y="19" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">,2.6V</tspan>
-          </text>
-          <text id="变频模块">
-            <tspan x="0" y="19">变频模块</tspan>
+          <text id="主控板" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#FFFFFF">
+            <tspan x="35.2359551" y="27">主控板</tspan>
           </text>
         </g>
-        <g id="编组-13备份-5" transform="translate(0.000000, 316.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
+        <g id="编组-13备份" transform="translate(0.000000, 118.000000)">
+          <text id="0.58A,2.6V" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#FFFFFF">
+            <tspan x="365.964831" y="26">0.58A</tspan>
+            <tspan x="414.942831" y="26" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">,2.6V</tspan>
+          </text>
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="560" height="39"></rect>
+          <text id="变频模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
+            fill="#FFFFFF">
+            <tspan x="33.9775281" y="26">变频模块</tspan>
+          </text>
+        </g>
+        <g id="编组-13备份-5" transform="translate(0.000000, 275.000000)">
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="560" height="39"></rect>
           <text id="42度" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="183.889021" y="26.5131579">42度</tspan>
+            <tspan x="392.334831" y="27">42度</tspan>
           </text>
           <text id="接受电平A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">接受电平A</tspan>
+            <tspan x="33.8314607" y="27">接受电平A</tspan>
           </text>
         </g>
-        <g id="编组-13备份-8" transform="translate(0.000000, 355.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="42%" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="184.159021" y="26.5131579">42%</tspan>
+        <g id="编组-13备份-8" transform="translate(0.000000, 314.000000)" fill="#FFFFFF"
+          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+          <text id="42%">
+            <tspan x="392.604831" y="27">42%</tspan>
           </text>
-          <text id="接收电平B" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">接收电平B</tspan>
+          <text id="接收电平B">
+            <tspan x="33.9606742" y="27">接收电平B</tspan>
           </text>
         </g>
-        <g id="编组-13备份-3" transform="translate(0.000000, 237.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
+        <g id="编组-13备份-9" transform="translate(0.000000, 393.000000)" fill="#FFFFFF"
+          font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+          <text id="36度，60%">
+            <tspan x="363.175618" y="27">36度，60%</tspan>
+          </text>
+          <text id="温湿度">
+            <tspan x="35.2359551" y="27">温湿度</tspan>
+          </text>
+        </g>
+        <g id="编组-13备份-3" transform="translate(0.000000, 196.000000)">
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="560" height="39"></rect>
           <text id="0.20A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="179.377822" y="26.5131579">0.20A</tspan>
+            <tspan x="388.275045" y="27">0.20A</tspan>
           </text>
           <text id="调制电平" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">调制电平</tspan>
+            <tspan x="35.2359551" y="27">调制电平</tspan>
           </text>
         </g>
-        <g id="编组-13备份-6" transform="translate(0.000000, 395.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
+        <g id="编组-13备份-6" transform="translate(0.000000, 354.000000)">
+          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="560" height="39"></rect>
           <text id="0.44A,E1" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="168.065209" y="26.5131579">0.44A,E1</tspan>
+            <tspan x="376.557045" y="27">0.44A,E1</tspan>
           </text>
           <text id="波道" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
             fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">波道</tspan>
+            <tspan x="35.2359551" y="27">波道</tspan>
           </text>
         </g>
-        <g id="编组-13备份-4" transform="translate(0.000000, 276.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="5.6V" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="183.64543" y="26.5131579">5.6V</tspan>
-          </text>
-          <text id="发射电平" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">发射电平</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-2" transform="translate(0.000000, 198.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="0.20A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="179.377822" y="26.5131579">0.20A</tspan>
-          </text>
-          <text id="解调模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">解调模块</tspan>
-          </text>
-        </g>
-        <text id="通道一" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
-          <tspan x="115" y="26">通道一</tspan>
-        </text>
-        <g id="编组-2" transform="translate(0.000000, 119.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="功放模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">功放模块</tspan>
-          </text>
-          <text id="1.21A,锁定" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="162.583822" y="26.5131579">1.21A,锁定</tspan>
-          </text>
-        </g>
-        <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="40" width="277" height="39"></rect>
-        <text id="基站信息" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="20" y="66">基站信息</tspan>
-        </text>
-        <text id="0.07A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="179.488" y="66">0.07A</tspan>
-        </text>
-      </g>
-      <g id="编组-7备份-14" transform="translate(652.000000, 198.000000)">
-        <rect id="矩形" fill="#00A1FF" opacity="0.0993289039" x="0" y="0" width="277" height="434"></rect>
-        <g id="编组-13" transform="translate(0.000000, 79.000000)" fill="#FFFFFF"
+        <g id="编组-13备份-4" transform="translate(0.000000, 235.000000)" fill="#FFFFFF"
           font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
-          <text id="0.81A,1.53V">
-            <tspan x="156.904019" y="26.5131579">0.81A,1.53V</tspan>
+          <text id="5.6V">
+            <tspan x="390.690978" y="27">5.6V</tspan>
           </text>
-          <text id="主控板">
-            <tspan x="17.3818425" y="26.5131579">主控板</tspan>
+          <text id="发射电平">
+            <tspan x="33.9775281" y="27">发射电平</tspan>
           </text>
         </g>
-        <g id="编组-13备份" transform="translate(17.000000, 165.500000)" fill="#FFFFFF"
+        <g id="编组-13备份-2" transform="translate(0.000000, 157.000000)" fill="#FFFFFF"
           font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
-          <text id="0.58A,2.6V">
-            <tspan x="140.696492" y="19">0.58A</tspan>
-            <tspan x="189.674492" y="19" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">,2.6V</tspan>
+          <text id="0.20A">
+            <tspan x="388.275045" y="27">0.20A</tspan>
           </text>
-          <text id="变频模块">
-            <tspan x="0" y="19">变频模块</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-5" transform="translate(0.000000, 316.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="42度" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="183.889021" y="26.5131579">42度</tspan>
-          </text>
-          <text id="接受电平A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">接受电平A</tspan>
+          <text id="解调模块">
+            <tspan x="33.9775281" y="27">解调模块</tspan>
           </text>
         </g>
-        <g id="编组-13备份-8" transform="translate(0.000000, 355.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="42%" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="184.159021" y="26.5131579">42%</tspan>
-          </text>
-          <text id="接收电平B" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">接收电平B</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-3" transform="translate(0.000000, 237.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="0.20A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="179.377822" y="26.5131579">0.20A</tspan>
-          </text>
-          <text id="调制电平" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">调制电平</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-6" transform="translate(0.000000, 395.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="0.44A,E1" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="168.065209" y="26.5131579">0.44A,E1</tspan>
-          </text>
-          <text id="波道" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">波道</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-4" transform="translate(0.000000, 276.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="5.6V" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="183.64543" y="26.5131579">5.6V</tspan>
-          </text>
-          <text id="发射电平" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">发射电平</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-2" transform="translate(0.000000, 198.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="0.20A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="179.377822" y="26.5131579">0.20A</tspan>
-          </text>
-          <text id="解调模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">解调模块</tspan>
-          </text>
-        </g>
-        <text id="通道二" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
-          <tspan x="115" y="26">通道二</tspan>
-        </text>
-        <g id="编组-2" transform="translate(0.000000, 119.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="功放模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">功放模块</tspan>
-          </text>
-          <text id="1.21A,锁定" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="162.583822" y="26.5131579">1.21A,锁定</tspan>
-          </text>
-        </g>
-        <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="40" width="277" height="39"></rect>
-        <text id="基站信息" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="20" y="66">基站信息</tspan>
-        </text>
-        <text id="0.07A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="179.488" y="66">0.07A</tspan>
-        </text>
-      </g>
-      <g id="编组-7备份-15" transform="translate(1231.000000, 198.000000)">
-        <rect id="矩形" fill="#00A1FF" opacity="0.0993289039" x="0" y="0" width="277" height="434"></rect>
-        <g id="编组-13" transform="translate(0.000000, 79.000000)" fill="#FFFFFF"
+        <g id="编组-2" transform="translate(0.000000, 78.000000)" fill="#FFFFFF"
           font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
-          <text id="0.81A,1.53V">
-            <tspan x="156.904019" y="26.5131579">0.81A,1.53V</tspan>
+          <text id="功放模块">
+            <tspan x="33.9775281" y="27">功放模块</tspan>
           </text>
-          <text id="主控板">
-            <tspan x="17.3818425" y="26.5131579">主控板</tspan>
+          <text id="1.21A,锁定">
+            <tspan x="370.851831" y="27">1.21A,锁定</tspan>
           </text>
         </g>
-        <g id="编组-13备份" transform="translate(17.000000, 165.500000)" fill="#FFFFFF"
+        <g id="编组-8" transform="translate(40.000000, 6.000000)" fill="#FFFFFF"
           font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
-          <text id="0.58A,2.6V">
-            <tspan x="140.696492" y="19">0.58A</tspan>
-            <tspan x="189.674492" y="19" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">,2.6V</tspan>
+          <text id="基站信息">
+            <tspan x="0" y="19">基站信息</tspan>
           </text>
-          <text id="变频模块">
-            <tspan x="0" y="19">变频模块</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-5" transform="translate(0.000000, 316.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="42度" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="183.889021" y="26.5131579">42度</tspan>
-          </text>
-          <text id="接受电平A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">接受电平A</tspan>
+          <text id="0.07A">
+            <tspan x="346.460464" y="19">0.07A</tspan>
           </text>
         </g>
-        <g id="编组-13备份-8" transform="translate(0.000000, 355.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="42%" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="184.159021" y="26.5131579">42%</tspan>
-          </text>
-          <text id="接收电平B" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">接收电平B</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-3" transform="translate(0.000000, 237.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="0.20A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="179.377822" y="26.5131579">0.20A</tspan>
-          </text>
-          <text id="调制电平" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">调制电平</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-6" transform="translate(0.000000, 395.000000)">
-          <rect id="矩形备份-6" opacity="0.100346157" x="0" y="0" width="277" height="39"></rect>
-          <text id="0.44A,E1" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="168.065209" y="26.5131579">0.44A,E1</tspan>
-          </text>
-          <text id="波道" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="17.3818425" y="26.5131579">波道</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-4" transform="translate(0.000000, 276.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="5.6V" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="183.64543" y="26.5131579">5.6V</tspan>
-          </text>
-          <text id="发射电平" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">发射电平</tspan>
-          </text>
-        </g>
-        <g id="编组-13备份-2" transform="translate(0.000000, 198.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="0.20A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="179.377822" y="26.5131579">0.20A</tspan>
-          </text>
-          <text id="解调模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">解调模块</tspan>
-          </text>
-        </g>
-        <text id="通道二" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
-          <tspan x="115" y="26">通道二</tspan>
-        </text>
-        <g id="编组-2" transform="translate(0.000000, 119.000000)">
-          <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="0" width="277" height="39"></rect>
-          <text id="功放模块" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="16.8271028" y="26.5131579">功放模块</tspan>
-          </text>
-          <text id="1.21A,锁定" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-            fill="#FFFFFF">
-            <tspan x="162.583822" y="26.5131579">1.21A,锁定</tspan>
-          </text>
-        </g>
-        <rect id="矩形备份-6" fill="#00A1FF" opacity="0.1" x="0" y="40" width="277" height="39"></rect>
-        <text id="基站信息" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="20" y="66">基站信息</tspan>
-        </text>
-        <text id="0.07A" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="179.488" y="66">0.07A</tspan>
-        </text>
       </g>
       <rect id="矩形" fill-opacity="0.1" fill="#0DA5FF" x="370" y="156" width="558.947891" height="38"></rect>
       <rect id="矩形备份-7" fill-opacity="0.1" fill="#0DA5FF" x="949.090157" y="156" width="558.947891" height="38"></rect>
@@ -1675,7 +1457,11 @@ export default {
             <tspan :x="titleProps.x" y="55">{{ title }}</tspan>
           </text>
         </g>
-        <text id="异常" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#F45C54">
+        <text id="2021-12-31" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal"
+          fill="#FFFFFF">
+          <tspan x="1648" y="38">{{ x_TimeData.nowTime }}</tspan>
+        </text>
+        <!-- <text id="异常" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#F45C54">
           <tspan x="1574" y="38">异常</tspan>
         </text>
         <circle id="椭圆形" fill="#F45C54" cx="1551" cy="31" r="11"></circle>
@@ -1688,18 +1474,10 @@ export default {
           <path
             d="M11.184375,7.7109375 L5.234375,2.5796875 C5.0125,2.3890625 4.6875,2.5609375 4.6875,2.86875 L4.6875,13.13125 C4.6875,13.4390625 5.0125,13.6109375 5.234375,13.4203125 L11.184375,8.2890625 C11.3546875,8.1421875 11.3546875,7.8578125 11.184375,7.7109375 Z"
             id="路径"></path>
-        </g>
+        </g> -->
         <!-- logo 图标（可配置，支持一行多个，默认左上角原位置） -->
         <image v-for="(logo, index) in logoItems" :key="index" :height="logo.height" :width="logo.width" :x="logo.x"
           :y="logo.y" :xlink:href="logo.src" />
-        <text id="12:28:00" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal"
-          fill="#FFFFFF">
-          <tspan x="1648" y="38">{{ x_TimeData.nowTime }}</tspan>
-        </text>
-        <!-- <g id="caret-right备份-2" transform="translate(1881.000000, 23.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                <rect id="矩形" opacity="0" x="0" y="0" width="16" height="16"></rect>
-                <path d="M11.184375,7.7109375 L5.234375,2.5796875 C5.0125,2.3890625 4.6875,2.5609375 4.6875,2.86875 L4.6875,13.13125 C4.6875,13.4390625 5.0125,13.6109375 5.234375,13.4203125 L11.184375,8.2890625 C11.3546875,8.1421875 11.3546875,7.8578125 11.184375,7.7109375 Z" id="路径"></path>
-            </g> -->
       </g>
     </g>
   </svg>
